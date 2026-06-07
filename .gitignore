@@ -1,0 +1,35 @@
+# Local project handbook (contains personal info)
+PROJECT_HANDBOOK.md
+
+# Other projects / scratch files
+分析结果/
+淘宝用户购物行为分析/
+E-Commerce-Sales-Customer-Analytics-Dashboard-main/
+E-Commerce-Sales-Customer-Analytics-Dashboard-main.zip
+
+# Python virtual environment
+.venv/
+
+# PyCharm IDE
+.idea/
+
+# Raw data (too large, download from Kaggle)
+archive/
+archive.zip
+
+# Reference project (not our work)
+E-Commerce-Sales-Customer-Analytics-Dashboard-main/
+E-Commerce-Sales-Customer-Analytics-Dashboard-main.zip
+
+# Generated outputs (can regenerate)
+output_*.png
+output_*.csv
+
+# Temporary / scratch files
+00_look.sql
+
+# OS files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
